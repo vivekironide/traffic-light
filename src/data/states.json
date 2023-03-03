@@ -1,0 +1,22 @@
+[
+    {
+        "id" : 1,
+        "state": "New South Whales"
+    },
+    {
+        "id" : 2,
+        "state": "Victoria"
+    },
+    {
+        "id" : 3,
+        "state": "Queensland"
+    },
+    {
+        "id" : 4,
+        "state": "Western Australia"
+    },
+    {
+        "id" : 5,
+        "state": "Tasmania"
+    }
+]

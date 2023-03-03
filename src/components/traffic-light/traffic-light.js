@@ -1,13 +1,18 @@
 import { Breadcrumb, Checkbox } from "antd";
 import { Content }              from "antd/es/layout/layout";
-import { useState } from "react";
-import * as React              from "react";
+import { useState }             from "react";
+import * as React               from "react";
 import "./traffic-light.css";
+import { useDispatch }          from "react-redux";
+import { addTitle }             from "../../app/starwars";
 
 export default function TrafficLight() {
   const [red, setRed] = useState(true)
   const [yellow, setYellow] = useState(false)
   const [green, setGreen] = useState(false)
+  const dispatch = useDispatch()
+  
+  dispatch(addTitle('Traffic Light'))
   let timeOut = '';
   
   const handleRedColor = () => {

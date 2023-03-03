@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "identifier": 2345,
+    "name": "ABC Wholesaler PTY Ltd",
+    "displayName": "ABC Wholesaler",
+    "type": "Physical Store",
+    "businessClasification": "Liquor Store",
+    "registrationNumber": 603522505,
+    "businessDescription": "Purveyor of fine food and drink on the north shore",
+    "address": "",
+    "appartment": "",
+    "suburb": "",
+    "PostCode": "",
+    "state": "New South Whales",
+    "country": "Australia",
+    "landLine": "",
+    "mobileNumber": "",
+    "website": "www.google.com",
+    "manager": "",
+    "email": ""
+  }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "id" : 1,
+        "classification": "Liquor Store"
+    },
+    {
+        "id" : 2,
+        "classification": "Minimarket"
+    },
+    {
+        "id" : 3,
+        "classification": "Butchery"
+    },
+    {
+        "id" : 4,
+        "classification": "Supermarket"
+    },
+    {
+        "id" : 5,
+        "classification": "Gas Station"
+    }
+]

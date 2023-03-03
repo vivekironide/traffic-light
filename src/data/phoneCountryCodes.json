@@ -1,0 +1,17 @@
+[
+    {
+        "id" : 1,
+        "country" : "AUS",
+        "code": "+61"
+    },
+    {
+        "id" : 2,
+        "country" : "ZA",
+        "code": "+27"
+    },
+    {
+        "id" : 3,
+        "country" : "JPN",
+        "code": "+81"
+    }
+]
